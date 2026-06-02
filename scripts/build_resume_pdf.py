@@ -53,7 +53,7 @@ def main():
     pdf.section("Education")
     pdf.body_text(
         "B.Tech in Computer Science & Engineering (Expected 2027)\n"
-        "Jaypee Institute of Engineering and Technology, Guna - CGPA 5.90 (up to 6th semester).\n\n"
+        "Jaypee University of Engineering and Technology, Guna - CGPA 5.90 (up to 6th semester).\n\n"
         "Class XII (2023) - Vandana Convent School, Guna, MP (CBSE) - 70.30%.\n\n"
         "Class X (2021) - Vandana Convent School, Guna, MP (CBSE) - 75.00%."
     )
