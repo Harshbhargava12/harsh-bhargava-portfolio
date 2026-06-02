@@ -4,7 +4,7 @@ import { FiBook, FiAward } from 'react-icons/fi';
 const education = [
   {
     title: 'B.Tech — Computer Science & Engineering',
-    org: 'Jaypee Institute of Engineering and Technology, Guna',
+    org: 'Jaypee University of Engineering and Technology, Guna (JUET)',
     period: 'Expected 2027',
     detail: 'CGPA 5.90 (up to 6th semester)',
     icon: FiBook

@@ -49,7 +49,7 @@ export default function About() {
             <p className="text-lg leading-relaxed text-slate-600 dark:text-slate-300">
               I am <strong className="text-slate-900 dark:text-white">Harsh Bhargava</strong>, a{' '}
               <strong>B.Tech Computer Science &amp; Engineering</strong> student at{' '}
-              <strong>Jaypee Institute of Engineering and Technology, Guna</strong> (expected{' '}
+              <strong>Jaypee University of Engineering and Technology, Guna (JUET)</strong> (expected{' '}
               <strong>2027</strong>), pursuing a career in software engineering with strengths in{' '}
               <strong>full stack development</strong>, <strong>data-backed systems</strong>, and{' '}
               <strong>AI/ML</strong>.
